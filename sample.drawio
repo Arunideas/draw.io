@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-31T01:46:18.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="H7Pr-YhTS4U2OWinfxFo" version="18.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-31T02:39:37.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36 Edg/101.0.1210.47" etag="NEBdz6Lb_JQ65DR2ZtAm" version="18.1.3" type="github" pages="3">
   <diagram id="XY77vvVAQOP6iAnWSaPU" name="Page-1">
     <mxGraphModel dx="768" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -260,9 +260,6 @@
         <mxCell id="q9oQer6rPA6YeuziaRl3-12" value="Open &#39;Edit Profile&#39; Page&amp;nbsp; with Auto Populated Data" style="whiteSpace=wrap;html=1;strokeColor=#666666;rounded=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AOl7uRQH9Cnn6coa6x7H-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="q9oQer6rPA6YeuziaRl3-14" target="AOl7uRQH9Cnn6coa6x7H-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="q9oQer6rPA6YeuziaRl3-14" value="Upload Profile Pic" style="whiteSpace=wrap;html=1;strokeColor=#666666;rounded=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -308,8 +305,95 @@
         <mxCell id="AOl7uRQH9Cnn6coa6x7H-11" value="Need to know what data can be collected ?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="580" y="55" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AOl7uRQH9Cnn6coa6x7H-12" value="Call the Imagga API to remove background" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="430" y="110" width="120" height="60" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xk0QOsLul5GCjX9J0hvT" name="Trainer - Course Update ">
+    <mxGraphModel dx="920" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I0uOHQUdkELACw-oFs6R-1" value="Course Updation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="415" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-7" target="I0uOHQUdkELACw-oFs6R-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-7" target="I0uOHQUdkELACw-oFs6R-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-7" value="Select Category" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="255" y="100" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-8" target="I0uOHQUdkELACw-oFs6R-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-8" value="Select Skill" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-12" value="Skill Missing ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="220" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-14" target="I0uOHQUdkELACw-oFs6R-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-14" value="Category missing ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="75" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-16" target="I0uOHQUdkELACw-oFs6R-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-16" value="Request to Add it&amp;nbsp; (&lt;i&gt;response in 48 hours)&lt;/i&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="772.5" y="100" width="157.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-18" value="Update in the DB" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1028.75" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-20" value="This will show up in the Admin app" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="20" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-28" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-29" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=16;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="695" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-32" value="pull from DB, should be fast.&lt;br style=&quot;font-size: 13px;&quot;&gt;Searchable drop down" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;fontSize=13;position2=1;arcSize=39;base=30;size=25;position=0.42;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-33" value="pull from DB, should be fast.&lt;br style=&quot;font-size: 13px;&quot;&gt;Searchable drop down" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;rounded=1;fontSize=13;position2=1;arcSize=39;base=30;size=25;position=0.42;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-39" target="I0uOHQUdkELACw-oFs6R-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-39" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font: inherit; background-color: initial; box-sizing: border-box; border: 0px; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-offset-key=&quot;d759s-0-0&quot;&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px; font: inherit; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-text=&quot;true&quot;&gt;Type of Training : [&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-variant: inherit; font-weight: inherit; background-color: initial; box-sizing: border-box; border: 0px; font-style: italic; font-stretch: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-offset-key=&quot;d759s-0-1&quot;&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px; font: inherit; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-text=&quot;true&quot;&gt;Byte sized, Specific Concept or Use Case, Crash Course, Full course&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font: inherit; background-color: initial; box-sizing: border-box; border: 0px; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-offset-key=&quot;d759s-0-2&quot;&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px; font: inherit; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-text=&quot;true&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; background-color: initial;&quot;&gt;Target Audience  - College Pass out (Freshers) , Experienced, College Students, School Students , Any one&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; background-color: initial;&quot;&gt;Duration&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; background-color: initial;&quot;&gt;Course Overview&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; background-color: initial;&quot;&gt;Goal of this course&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; background-color: initial;&quot;&gt;Pre-requisites required&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; background-color: initial;&quot;&gt;Hardware/software required&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; background-color: initial;&quot;&gt;Content Covered&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-family: inherit; font-size: inherit; font-style: inherit; font-variant-ligatures: inherit; font-variant-caps: inherit; font-weight: inherit; background-color: initial;&quot;&gt;Demo Video (optional)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="550" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="I0uOHQUdkELACw-oFs6R-40" target="I0uOHQUdkELACw-oFs6R-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-40" value="Assessment Type" style="whiteSpace=wrap;html=1;rounded=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="314" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-42" value="&lt;span style=&quot;box-sizing: border-box; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 400; font-stretch: inherit; font-size: 11.2px; line-height: inherit; font-family: Inter, Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; vertical-align: initial; color: rgb(50, 59, 74); letter-spacing: -0.08px; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; data-offset-key=&quot;5vak6-0-0&quot;&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px; font: inherit; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-text=&quot;true&quot;&gt;If the trainer has not crossed buddying trainer a message has to be posted, stating that a free demo will need to be provided on request by the trainees. &#xa;Senior trainers will not have to get paid for demo too !! (&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px; font-style: italic; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 400; font-stretch: inherit; font-size: 11.2px; line-height: inherit; font-family: Inter, Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; vertical-align: initial; color: rgb(50, 59, 74); letter-spacing: -0.08px; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; data-offset-key=&quot;5vak6-0-1&quot;&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px; font: inherit; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-text=&quot;true&quot;&gt;a link to how to become a senior trainer&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-weight: 400; font-stretch: inherit; font-size: 11.2px; line-height: inherit; font-family: Inter, Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; vertical-align: initial; color: rgb(50, 59, 74); letter-spacing: -0.08px; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; data-offset-key=&quot;5vak6-0-2&quot;&gt;&lt;span style=&quot;box-sizing: border-box; border: 0px; font: inherit; margin: 0px; padding: 0px; vertical-align: initial;&quot; data-text=&quot;true&quot;&gt;) &lt;/span&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;align=left;fillColor=#FFB366;strokeColor=#d6b656;labelBackgroundColor=#FFB366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="770" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-43" value="Update in Server" style="whiteSpace=wrap;html=1;fontSize=13;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="514" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I0uOHQUdkELACw-oFs6R-45" value="API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=13;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="660" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
